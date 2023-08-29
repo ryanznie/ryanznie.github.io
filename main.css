@@ -53,3 +53,7 @@ a:hover {
 .icons a:hover {
     color: #1565c0;
 }
+
+.email {
+    display: inline;
+}   
